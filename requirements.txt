@@ -1,0 +1,14 @@
+notebook
+ipykernel
+tqdm
+datasets
+python-dotenv
+trl
+peft
+bitsandbytes
+transformers
+torch
+sentencepiece
+matplotlib
+lm-eval
+flash_attn

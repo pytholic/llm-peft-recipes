@@ -1,2 +1,4 @@
 hf/
 .env
+.venv
+model*
